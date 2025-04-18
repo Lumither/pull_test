@@ -1,6 +1,6 @@
 ---
 title: 关于博客系统二三事（二）：自动化部署
-date: 2024-12-5-0800
+date: 2024-12-05
 last_update: 2025-2-20-0800
 category: 博客建设
 # header_img: https://oss.lumither.com/blog/pictures/gothic_kiriyama_lolita.webp
