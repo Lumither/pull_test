@@ -1,6 +1,6 @@
 ---
 title: 关于博客系统二三事（一）：梦开始的地方
-sub_title: 这期我们来谈谈关于博客系统建设的一些思考
+subtitle: 这期我们来谈谈关于博客系统建设的一些思考
 date: 2024-05-31
 category: 博客建设
 id: d8f2433b-0f7d-423d-9a3a-a7e6ebffd92c

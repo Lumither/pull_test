@@ -4,7 +4,7 @@ date: 2024-04-29
 category: 测试
 header_img: https://oss.lumither.com/blog/pictures/gothic_kiriyama_lolita.webp
 id: 9dcf707d-625c-4229-84db-6523d1ae1c4b
-sub_title: 这是一篇测试文档
+subtitle: 这是一篇测试文档
 summary: 这是一篇测试文档，调试专用，最新的feature在这里展现（笑
 tags: [ "测试", "System Check" ]
 ---

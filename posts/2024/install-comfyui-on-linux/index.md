@@ -3,7 +3,7 @@ title: 关于在Linux上安装ComfyUI的那档事
 date: 2024-08-20
 category: 备忘录
 id: 5b029257-0ca0-42e5-a04d-0ce84d11d724
-sub_title: 记录一下
+subtitle: 记录一下
 summary: 略
 tags: [ "日常", "Linux", "ComfyUI" ]
 ---
